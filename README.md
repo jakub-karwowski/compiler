@@ -1,8 +1,10 @@
 # Języki formalne i techniki translacji - Kompilator
 
-**Kompilator prostego języka imperatywnego**
-- zadanie na studia - strona wykładowcy: https://cs.pwr.edu.pl/gebala/
-- korzysta z parsera **sly**: https://github.com/dabeaz/sly
+**Kompilator prostego języka imperatywnego**  
+***Compiler for simple imperative language (uni assignment)***
+
+- zadanie na studia - strona wykładowcy: <https://cs.pwr.edu.pl/gebala/>
+- korzysta z parsera **sly**: <https://github.com/dabeaz/sly>
 
 ## Instalacja python
 
